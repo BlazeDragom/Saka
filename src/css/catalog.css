@@ -118,7 +118,7 @@ li {
     align-items: end;
     width: 18.5rem;
     height: 4.3rem;
-    color: var(--white);
+    color: #fff;
 
     span {
         position: relative;
@@ -149,7 +149,7 @@ li {
     letter-spacing: .024rem;
 
     a {
-        color: rgba(255, 255, 255, .25);
+        color: rgba(255,255,255,0.25);
     }
 
     span a {
